@@ -9,6 +9,9 @@ __pycache__/
 ytflr/
 Ytflr/
 
+images/
+Images/
+
 # Distribution / packaging
 .Python
 build/
