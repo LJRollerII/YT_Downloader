@@ -12,6 +12,9 @@ Ytflr/
 images/
 Images/
 
+audio/
+Audio/
+
 # Distribution / packaging
 .Python
 build/
